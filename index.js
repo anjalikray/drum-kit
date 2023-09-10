@@ -61,7 +61,6 @@ function makeSound(key) {
         default:
             break;
     }
-
 }
 
 function buttonAnimation(currentKey) {
